@@ -1,0 +1,50 @@
+body {
+  font-family: "Verdana", sans-serif;
+}
+
+h1 {
+  font-size: 36px;
+  text-align: center;
+}
+
+h2 {
+  color: #d54215;
+  text-align: center;
+  padding-top: 20px;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+#main {
+  font-size: 100px;
+}
+
+.menu {
+  width: 30%;
+  font-size: 24px;
+  text-align: center;
+  margin: auto;
+  list-style-type: none;
+}
+
+.menu a {
+  background-color: #d54215;
+  color: white;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+
+.menu a:hover {
+  background-color: white;
+  color: #d54215;
+}
+
+div.content {
+  width: 50%;
+  display: block;
+  margin: auto;
+}
